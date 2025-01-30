@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am Pankaj Pipada
+- I write at: https://pankajpipada.com
+- I am interested in building software systems
+- I have largely worked with Go, Python, TS/JS, C
+- I am currently working on creating LLM based systems. Some of my current work is present at: https://github.com/flexigpt
+
+
+
