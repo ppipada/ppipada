@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - I am currently working on creating LLM based systems.
 - I am actively working on: [FlexiGPT UI](https://github.com/ppipada/flexigpt)
 
+<!--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ppipada&show_icons=true&theme=graywhite)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ppipada&include_orgs=true&show_icons=true&theme=buefy)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ppipada&layout=compact)
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ppipada&show_icons=true&theme=graywhite)
+-->
