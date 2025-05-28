@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - I am interested in building software systems
 - I have largely worked with Go, Python, TS/JS, C
 - I am currently working on creating LLM based systems.
-- I am actively working on: [FlexiGPT UI](https://github.com/ppipada/flexigpt)
+- I am actively working on: [FlexiGPT App](https://github.com/ppipada/flexigpt)
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ppipada&show_icons=true&theme=graywhite)
